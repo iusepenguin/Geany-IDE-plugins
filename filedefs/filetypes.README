@@ -1,0 +1,2 @@
+Copy files from /nix/store/mmksgcq6vc0hdk9rkwbx25xz6hgss98w-geany-2.1/share/geany/filedefs to this directory to overwrite them. To use the defaults, just delete the file in this directory.
+For more information read the documentation (in /nix/store/p7dc6asxz9vlnrdj38xidq2f87mwqvqf-geany-2.1-doc/share/doc/geany/html/index.html or visit https://www.geany.org/).
